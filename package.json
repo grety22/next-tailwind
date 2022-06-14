@@ -1,5 +1,10 @@
 {
   "name": "next-tailwind",
+  "author": "Gretel M",
+  "engines": {
+    "node": "18.3.0",
+    "npm": "8.12.1"
+  },
   "version": "0.1.0",
   "private": true,
   "scripts": {
